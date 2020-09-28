@@ -25,9 +25,7 @@ sleep(10)
 def login():
     usr = dv.find_element_by_xpath('//*[@id="loginForm"]/div/div[1]/div/label/input')
     pw =  dv.find_element_by_xpath('//*[@id="loginForm"]/div/div[2]/div/label/input')
-    sleep(3)
-    #usr_input = 'excellnapratica'
-    #pw_input = 'ma96rc43'
+    sleep(3) 
     usr_input = str(input("Usuário: \n"))
     pw_input = str(input('Senha: \n'))
     os.system('cls')
