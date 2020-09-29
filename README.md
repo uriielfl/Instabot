@@ -16,6 +16,7 @@ Instagram Bot to help you get more followers through the suggested profiles from
  * Search for someone in the list.
  * Se all the list.
  * Select how much people we'll follow. 
+ ![Menu](https://i.ibb.co/Btk21MR/Capturar.png)
  
   ## Why would I use the suggested instead some famous people?
 *Reuse of the the instagram suggested algorithm!* The instagram suggested algorithm works based on some factors like: "Linked Social Media Accounts", "Phone Contacts", "Search History", "Hashtag Use", "Mutual Friends", etc. It's probably much more possible to someone with these things in common, follow us back, than some random people.
